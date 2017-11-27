@@ -2,7 +2,7 @@
   "name": "@practo/go-ahead",
   "version": "0.0.5",
   "description": "License checker with CI / Github status support",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
