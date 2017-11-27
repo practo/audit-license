@@ -1,6 +1,6 @@
 {
   "name": "@practo/go-ahead",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "License checker with CI / Github status support",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/practo/go-ahead/issues"
   },
-  "homepage": "https://github.com/practo/go-ahead#readme"
+  "homepage": "https://github.com/practo/go-ahead#readme",
+  "dependencies": {
+    "github": "^12.0.6",
+    "license-checker": "^15.0.0",
+    "superagent": "^3.8.1"
+  }
 }
