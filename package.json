@@ -1,6 +1,6 @@
 {
   "name": "@practo/go-ahead",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "License checker with CI / Github status support",
   "main": "lib/index.js",
   "scripts": {
