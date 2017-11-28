@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var checker = require('license-checker');
 var request = require('superagent');
 
