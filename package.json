@@ -1,7 +1,7 @@
 {
-  "name": "@practo/go-ahead",
+  "name": "@practo/audit-license",
   "version": "0.0.6",
-  "description": "License checker with CI / Github status support",
+  "description": "Audit package licenses with CI / Github status support",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/practo/go-ahead.git"
+    "url": "git+https://github.com/practo/audit-license.git"
   },
   "author": "Deven Vyas <deven.vyas@practo.com>",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "url": "https://github.com/practo/go-ahead/issues"
   },
   "bin": {
-    "go-ahead": "./bin/go-ahead"
+    "audit-license": "./bin/audit-license"
   },
   "homepage": "https://github.com/practo/go-ahead#readme",
   "dependencies": {
