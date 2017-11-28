@@ -1,6 +1,6 @@
 {
   "name": "@practo/audit-license",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Audit package licenses with CI / Github status support",
   "main": "lib/index.js",
   "scripts": {
